@@ -150,3 +150,31 @@ button
 	color:#FFF;
 	border:1px solid #fff;
 }
+.portfolio-pic-right,
+.portfolio-pic
+{
+	width:220px;
+	height:220px;
+	display:inline-block;
+	margin-bottom:40px;
+}
+.portfolio-pic
+{
+	margin-right:20px;
+}
+.portfolio-pic-right
+{
+	margin-left:20px;
+	float:right;
+}
+.img-title
+{
+	  background: #4aaaa5 none repeat scroll 0 0 !important;
+    color: #fff;
+    margin-top: -70px;
+    padding: 20px 10px;
+	text-align:center;
+    position: absolute;
+    width: 200px;
+
+}
