@@ -5,8 +5,10 @@ html
 body { 
 
 	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-		font-size:18px;
-	
+		font-size:18px;	
+}
+nav a:hover {
+	background-color: #009F95;
 
 }
 .header-section
